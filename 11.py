@@ -1,7 +1,7 @@
 from collections import Counter
 import re
 
-
+# commit
 def main():
     data = open('log').read()
 
